@@ -29,6 +29,10 @@ speed up this process, saving you time and preventing distractions while
 waiting for a lengthy build to finish. The difference is most noticeable
 during rapid debug-edit-rebuild cycles.
 
+## Disclaimer
+
+This was ported to Rust from C++ using Claude.
+
 ## Benchmark
 
 Here is a performance comparison of lld, wild, and mold when linking nine
